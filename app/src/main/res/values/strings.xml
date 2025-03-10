@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tasko</string>
+
+    <string name="add_new_task">Add new task…</string>
+    <string name="add_task">Add Task</string>
+    <string name="change_state">Change task state</string>
+    <string name="all_tasks">All Tasks</string>
+    <string name="wait_to_start">Wait to Start</string>
+    <string name="in_progres">In Progress</string>
+    <string name="finished">Finished</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="delete_task">Delete Task</string>
+</resources>

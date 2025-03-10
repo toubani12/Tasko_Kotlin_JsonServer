@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Shooping",
+      "state": "WAIT_TO_START"
+    },
+    {
+      "id": "2",
+      "title": "Morning routine (7:00 AM)",
+      "state": "WAIT_TO_START"
+    },
+    {
+      "id": "3",
+      "title": "Check work emails",
+      "state": "IN_PROGRESS"
+    },
+    {
+      "id": "4",
+      "title": "Team meeting (10:00 AM)",
+      "state": "WAIT_TO_START"
+    },
+    {
+      "id": "5",
+      "title": "Work on project tasks",
+      "state": "IN_PROGRESS"
+    },
+    {
+      "id": "6",
+      "title": "Evening exercise session",
+      "state": "FINISHED"
+    },
+    {
+      "id": 7,
+      "state": "WAIT_TO_START",
+      "title": "BADR"
+    }
+  ]
+}
